@@ -1,0 +1,36 @@
+- promotion促销活动
+- executive suite
+- condo/condominium 有产权的公寓
+- marvellous
+- suite 套房
+- penthouse 顶层豪华公寓
+- periodical room期刊室
+- barley 大麦
+- poultry家禽
+- maternity leave产假/ paternity leave 陪产假
+- ride 游乐场的设施
+- carousel 旋转木马
+- hygenic
+- proposal 开题报告
+- Hyphen
+  - compound adjectives 复合形容词
+    - state-of-the-art, fur-covered animal, 
+  - compound verbs 复合动词，名词作为动词
+    - **“The slacker video-gamed his way through life.”**
+  - create new or compound nouns
+  - -ly 的副词（adverb）和very不适用hyphen
+    - 例外，family这种名词（family-owned）
+  - tell ages
+    - My piggy is two years old.
+    - I have a two-year-old piggy.
+  - spans of time
+    - 9:00-10:00
+  - 21 to 99, compound number
+    - twenty-one
+    - Always include a hyphen when writing out numbers between 21 and 99 in word form.
+  - ex-, all-, self- prefixes
+    - ex-boyfriend
+    - all-knowing
+    - self-esteem
+  - 大写字母的名词前
+    - pro-European
