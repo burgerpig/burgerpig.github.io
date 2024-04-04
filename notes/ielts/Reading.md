@@ -1,2 +1,0 @@
-- Although humour has been found to help relieve stress and facilitate social relationships, the traditional view of task performance implies that individuals should avoid things such as humour that may distract them from the accomplishment of task goals.
-  - humor helps relieve stress and facilitates social relationships.
